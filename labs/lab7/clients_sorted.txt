@@ -1,0 +1,5 @@
+Wolken, Erik -- BMI 22.4 -- Fitness Level 5
+Pedrani, Kayla -- BMI 23.3 -- Fitness Level 4
+Crispen, Shelli -- BMI 23.4 -- Fitness Level 3
+Cruz, Richard -- BMI 24.5 -- Fitness Level 2
+Mau, Tyler -- BMI 23.4 -- Fitness Level 2

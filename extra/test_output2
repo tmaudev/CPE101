@@ -1,0 +1,20 @@
+---Puzzle Data---
+
+Number of cages: 7
+Cage number 0 (total 4):  0 1 6
+Cage number 1 (total 8):  2 7 12
+Cage number 2 (total 14):  3 4 8
+Cage number 3 (total 15):  5 10 11 15
+Cage number 4 (total 14):  9 13 14 18 19 24
+Cage number 5 (total 11):  16 20 21
+Cage number 6 (total 9):  17 22 23
+
+---Solution---
+
+1 2 3 4 5 
+3 1 4 5 2 
+2 5 1 3 4 
+5 4 2 1 3 
+4 3 5 2 1 
+
+checks: 470 backtracks: 79
